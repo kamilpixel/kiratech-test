@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: '/kiratech-test/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/kiratech-test/'
+    : '/'
 }
