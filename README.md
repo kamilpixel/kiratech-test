@@ -1,7 +1,7 @@
 # Kiratech App Test
 
 ## Online preview
-
+https://kamilpixel.github.io/kiratech-test
 
 ## Requirement to run in local
 Please install `node` and `npm` in local
